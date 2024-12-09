@@ -1,6 +1,9 @@
 # ResonateQ2 - Zhijian
 
 ## Demo
+https://resonateq2.netlify.app/
+
+
 ![动画](https://github.com/user-attachments/assets/419f8558-9de9-45c6-83df-b58a7003903b)
 
 ---
