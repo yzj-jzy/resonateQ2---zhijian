@@ -1,13 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# ResonateQ2 - Zhijian
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo
+![动画](https://github.com/user-attachments/assets/419f8558-9de9-45c6-83df-b58a7003903b)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# resonateQ2---zhijian
-This is resonate tech-assignment question 2 including demo and running instruction
->>>>>>> 2ba1f52d1b1322029b0e960ad3bb12f81dba60ad
+## Running Instructions
+
+### 1. Clone the repository
+Clone the project to your local machine using the following command:
+```bash
+git clone https://github.com/yzj-jzy/resonateQ2---zhijian.git
+cd resonateQ2---zhijian
+```
+
+### 2. Install dependencies
+Make sure you have [Node.js](https://nodejs.org/) installed on your system. Then run:
+```bash
+npm install
+```
+
+### 3. Start the development server
+Start the local development server using:
+```bash
+npm run dev
+```
+
+### 4. Access the application
+After the server starts, open your browser and navigate to:
+```
+http://localhost:5173
+```
+
+---
