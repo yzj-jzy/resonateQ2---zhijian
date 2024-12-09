@@ -50,7 +50,8 @@ const ContactsList: React.FC = () => {
   }
 
   return (
-    <div className="container mx-auto py-8 mb:px-12 px-4">
+    <div className="container mx-auto py-8 phone:w-full tablet:w-3/4 desktop:w-1/2">
+
       <div className="bg-white rounded-lg shadow-lg p-4 md:p-6">
         <h1 className="text-2xl md:text-3xl font-extrabold text-gray-800 mb-4 md:mb-6">Contacts</h1>
         {contacts.length > 0 ? (
